@@ -4,7 +4,7 @@
 ;;
 (def map_width 10)
 (def map_height 10)
-(def mine_count 2)
+(def mine_count 10)
 
 (def sign_hidden "H")
 (def sign_open "O")
